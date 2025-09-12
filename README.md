@@ -1,4 +1,4 @@
-# JAML – Rust Configuration Library
+# JAML – JustAnotherMarkupLanguage
 
 **JAML** ist eine einfache, verschachtelte Konfigurationsbibliothek für Rust, ähnlich wie TOML oder YAML, aber mit Fokus auf **einfaches Parsen, Ändern und Speichern**.
 
