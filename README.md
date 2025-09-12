@@ -65,12 +65,12 @@ age = 22
 
 📁 Beispiel config.jaml
 ```
-[settings]
-refresh_rate = 144
-dark_mode = true
+[category]
+integer = 5
+boolean = true
 
-[settings.ui]
-theme = dark
-font_size = 14
-languages = [rust, c, python]
+[category.subcategory]
+string = dark
+integer = 14
+array = [string1, string2, string3]
 ```
