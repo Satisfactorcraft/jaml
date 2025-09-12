@@ -67,7 +67,7 @@ integer = 5
 boolean = true
 
 [category.subcategory]
-string = dark
+string = hello
 integer = 14
 array = [string1, string2, string3]
 ```
