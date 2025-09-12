@@ -60,10 +60,7 @@ Automatisches Laden & Speichern von .jaml Dateien
 
 Ideal, wenn du schnelle Rust-Konfigurationen ohne komplexes YAML/TOML Setup brauchst
 
-name = Jan
-age = 22
-
-📁 Beispiel config.jaml
+# 📁 Beispiel config.jaml
 ```
 [category]
 integer = 5
