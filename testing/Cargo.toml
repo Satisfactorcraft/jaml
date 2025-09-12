@@ -1,0 +1,8 @@
+[package]
+name = "testing"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+indexmap = "2.11.0"
+jaml = { git = "https://github.com/Satisfactorcraft/jaml.git" }
