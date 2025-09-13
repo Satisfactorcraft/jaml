@@ -9,7 +9,7 @@ fn main() {
     cfg.set_value("settings.ui.font_size", JamlValue::Integer(14));
     cfg.set_value("settings.ui.languages", JamlValue::Array(vec![
         JamlValue::String("rust".to_string()),
-        JamlValue::String("c".to_string()),
+        JamlValue::String("c++".to_string()),
         JamlValue::String("python".to_string()),
     ]));
 
