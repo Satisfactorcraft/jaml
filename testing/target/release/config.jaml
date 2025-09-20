@@ -8,4 +8,4 @@ dark_mode = true
 [settings.ui]
 theme = dark
 font_size = 14
-languages = [rust, c, python]
+languages = [rust, c++, python]
